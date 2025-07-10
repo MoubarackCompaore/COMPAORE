@@ -9,3 +9,11 @@ color: rgb(180, 78, 221);
 text-decoration: underline ;
 }
 
+img{
+    border: solid black;
+    border-radius: 10000px;
+    border-top-left-radius: 10000px;
+    border-bottom-right-radius: 10000px;
+    border-top-left-radius: 10000px;
+    border-bottom-left-radius: 10000px;
+}
