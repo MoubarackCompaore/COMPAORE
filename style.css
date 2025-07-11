@@ -24,7 +24,6 @@ main{
     background-color: aliceblue;
     width: 90% ;
     margin: 0 auto;
-    
 .flexbox ul {
     padding: 0;
     display: flex;
@@ -32,16 +31,12 @@ main{
 }
 .flexbox li {
         list-style: none;
-        height: 30px;
-        width: 80px;
+        height: 50px;
+        width: 100px;
         background:white;
         padding: 10px; ;
         display: flex;
         justify-content: center;
         align-items: center;
-
-
-
     }
-
-}
+    
