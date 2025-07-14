@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(150, 207, 218); 
+    background-color: rgb(135, 170, 177); 
 block{
     height: 10vh;
     width: 10%;
@@ -27,7 +27,7 @@ main{
 .flexbox ul {
     padding: 0;
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
 }
 .flexbox li {
         list-style: none;
