@@ -27,7 +27,7 @@ main{
 .flexbox ul {
     padding: 0;
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
 }
 .flexbox li {
         list-style: none;
