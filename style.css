@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(135, 170, 177); 
+    background-color:tan; 
 block{
     height: 10vh;
     width: 10%;
@@ -21,7 +21,7 @@ img{
 }
 main{
     min-height: 55px;
-    background-color: rgb(3, 0, 3);
+    background-color: blue;
     width: 90% ;
     margin: 0 auto;
 .flexbox ul {
@@ -33,8 +33,8 @@ main{
         list-style: none;
         height: 50px;
         width: 100px;
-        background:white;
-        padding: 10px; ;
+        background:yellow;
+        padding: 0px; ;
         display: flex;
         justify-content: center;
         align-items: center;
