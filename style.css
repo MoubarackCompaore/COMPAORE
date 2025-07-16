@@ -42,4 +42,7 @@ main{
     .mbr{
         border-radius: 100000px;
     }
+    a{
+        text-decoration: none;
+    }
     
