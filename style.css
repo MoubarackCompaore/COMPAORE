@@ -12,18 +12,15 @@ color: rgb(180, 78, 221);
 text-decoration: underline ;
 }
 
-img{
-    border-radius: 10000px;
-    border-top-left-radius: 10000px;
-    border-bottom-right-radius: 10000px;
-    border-top-left-radius: 10000px;
-    border-bottom-left-radius: 10000px; 
+.plus{
+    border-radius:50% ;
+    
 }
 main{
     min-height: 55px;
     background-color:;
     width: 90% ;
-    margin: 0 auto;
+    margin: 0 auto;}
 .flexbox ul {
     padding: 0;
     display: flex;
@@ -38,5 +35,11 @@ main{
         display: flex;
         justify-content: center;
         align-items: center;
+    }
+    .cpr{
+        border-radius: 50%;
+    }
+    .mbr{
+        border-radius: 100000px;
     }
     
