@@ -35,7 +35,7 @@ main {
 }
 
 .flexbox li {
-<<<<<<< HEAD
+
     list-style: none;
     height: 50px;
     width: 100%;
@@ -90,126 +90,35 @@ header .big-card {
 
 @media (max-width:500px) {
     header .big-card {
-=======
+
         list-style: none;
         height: 50px;
         width: 100%;
-        background:blue;
-        padding: 0px; ;
+        background: blue;
+        padding: 0px;
+        ;
         display: flex;
         justify-content: center;
         align-items: center;
     }
-    .cpr{
-        border-radius: 50%;
-    }
-    .mbr{
-        border-radius: 100000px;
-    }
-    a{
-        color: white;
-        text-decoration: none;
-    }
-    .bg{
-        text-align: center;
-    }
-    body,html,header{
-     padding: 0;
-     margin: 0;
-     overflow: hidden;
-<<<<<<< HEAD
-     font-family: poppins;
-=======
-     
->>>>>>> 35772ae55285e156a6aa971f6d4bee71e25a6d4c
- }
- header .big-card{ 
-position: relative;
-max-width: 450px;
-max-height: 100%;
-background-color: white;
-margin: 0 auto;
-box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
-border-radius: 15px;
- }
- @media (max-width:500px) {
-    header .big-card{
->>>>>>> b52097f6e01e2a1e33e158b32e48e19b7811526d
-        width: 100%;
-        height: 100%;
-        max-height: none;
-        max-width: none;
-    }
-<<<<<<< HEAD
 }
 
-header .big-card::before {
-    content: "";
-=======
- }
- header .big-card::before{
-<<<<<<< HEAD
-    content: ;
-=======
-    
->>>>>>> 35772ae55285e156a6aa971f6d4bee71e25a6d4c
->>>>>>> b52097f6e01e2a1e33e158b32e48e19b7811526d
-    position: absolute;
-    left: -2px;
-    right: -2px;
-    top: -2px;
-    bottom: -2px;
-    z-index: -1;
-    background: linear-gradient(to bottom right, rgb(180, 78, 221));
+.cpr {
+    border-radius: 50%;
 }
 
-header .big-card-1::before {
-    transform: skew(3deg, 3deg);
+.mbr {
+    border-radius: 100000px;
 }
 
-header .big-card-2::before {
-    left: -10px;
-    right: -10px;
-    bottom: -10px;
-    top: -10px;
-    border-radius: 20px;
+a {
+    color: white;
+    text-decoration: none;
 }
 
-header .big-card-3::before {
-    transform: skew(-3deg, -3deg);
+.bg {
+    text-align: center;
 }
-
-.min-pic {
-    position: absolute;
-    width: 75px;
-    z-index: 99;
-    top: -35px;
-    left: 50%;
-    transform: translate(-50%);
-<<<<<<< HEAD
-}
-=======
-    }
-    header .big-card::after{
-<<<<<<< HEAD
-        content: ;
-=======
-        
-        position: absolute;
-        top: 0px;
-        left: 0px;
-        width: 90px;
-        height: 90px;
-        background-color: white;
-        border: 2px solid aqua;
-    }
-    .p{
-        color: black;
-    
->>>>>>> 35772ae55285e156a6aa971f6d4bee71e25a6d4c
-    }
-        
->>>>>>> b52097f6e01e2a1e33e158b32e48e19b7811526d
 
 .p {
     color: black;
